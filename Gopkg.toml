@@ -27,4 +27,4 @@
 
 [[constraint]]
   name = "github.com/speps/go-hashids"
-  version = "1.0.0"
+  revision = "c6ced3330f133cec79e144fb11b2e4c5154059ae"
