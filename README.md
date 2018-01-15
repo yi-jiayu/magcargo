@@ -31,6 +31,6 @@ Location: https://github.com/yi-jiayu/magcargo
 ```
 
 ## Todo
-- [ ] Remove hardcoded salt
+- [x] Remove hardcoded salt
 - [ ] CLI client
 - [ ] Link statistics
